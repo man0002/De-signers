@@ -1,12 +1,15 @@
 # De-signers
 CPSC 559 End term Project
+
+Github Link: https://github.com/man0002/De-signers.git
+
 Team DDMM
 Team members:
 
-Drasthi Rakeshbhai Amin   885195776. drashti14920@csu.fullerton.edu
-Disha Dieshbhai Patel.    885195594. disha81100@csu.fullerton.edu
-Manan Hasmukhbhai Patel   885226993. mananpatel@csu.fullerton.edu
-Manan Naileshbhai Gandhi  885195719. manangandhi8600@csu.fullerton.edu
+Drasthi Rakeshbhai Amin   885195776. drashti14920@csu.fullerton.edu \
+Disha Dieshbhai Patel.    885195594. disha81100@csu.fullerton.edu \
+Manan Hasmukhbhai Patel   885226993. mananpatel@csu.fullerton.edu \
+Manan Naileshbhai Gandhi  885195719. manangandhi8600@csu.fullerton.edu \
 
 
 # De-signers
