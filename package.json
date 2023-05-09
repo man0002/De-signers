@@ -1,0 +1,26 @@
+{
+  "name": "de-signers",
+  "version": "1.0.0",
+  "description": "CPSC 559 Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/man0002/De-signers.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/man0002/De-signers/issues"
+  },
+  "homepage": "https://github.com/man0002/De-signers#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.8.3",
+    "hardhat": "^2.14.0"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.2"
+  }
+}
